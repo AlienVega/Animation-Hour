@@ -86,4 +86,7 @@ body{
     #time .circle {
         margin-bottom: 10px; /* İstediğiniz boşluk miktarını ayarlayabilirsiniz */
     }
+    .ap{
+        gap:15px;
+    }
 }
