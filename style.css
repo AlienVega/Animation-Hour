@@ -76,3 +76,14 @@ body{
     0 0 60px var(--clr);
 
 }
+
+@media (max-width: 623px) {
+    #time {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #time .circle {
+        margin-bottom: 10px; /* İstediğiniz boşluk miktarını ayarlayabilirsiniz */
+    }
+}
